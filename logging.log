@@ -1,0 +1,93 @@
+2019-05-17 10:02:41 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:02:41 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 10:19:34 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:19:34 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 10:28:51 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:28:51 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 10:54:10 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:54:10 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 10:56:27 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:56:27 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 11:17:15 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 11:17:15 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 11:18:09 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 11:18:09 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 11:18:50 ERROR UserService:31 - email existe deja
+2019-05-17 11:19:24 ERROR UserService:31 - email existe deja
+2019-05-17 12:08:28 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:08:28 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:16:56 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:16:56 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:21:36 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:21:36 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:33:56 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:33:56 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:39:36 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:39:36 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:42:00 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:42:00 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:43:26 ERROR UserService:95 - [Ljava.lang.StackTraceElement;@72474b03
+2019-05-17 12:44:27 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:44:27 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:45:03 ERROR UserService:95 - [Ljava.lang.StackTraceElement;@660f9e33
+2019-05-17 12:46:20 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 12:46:20 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 12:46:55 ERROR UserService:95 - [Ljava.lang.StackTraceElement;@544f2b41
+2019-05-17 13:54:43 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 13:54:43 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 13:55:09 ERROR UserService:95 - [Ljava.lang.StackTraceElement;@68776cdb
+2019-05-17 14:34:02 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 14:34:02 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 14:34:25 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@bce7aba
+2019-05-17 14:37:03 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 14:37:03 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 14:37:27 ERROR UserService:94 - l'id pas trouvé
+2019-05-17 14:38:27 ERROR UserService:31 - email existe deja
+2019-05-17 14:40:30 ERROR UserService:94 - l'id pas trouvé
+2019-05-17 14:41:41 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 14:41:41 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 14:49:52 ERROR UserService:94 - l'id pas trouvé
+2019-05-17 14:52:31 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@6c1cd5c8
+2019-05-17 14:52:48 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@535a6cd9
+2019-05-17 14:53:52 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@2551ba4e
+2019-05-17 14:54:57 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@7a9e06c0
+2019-05-17 14:55:28 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@71f828dd
+2019-05-17 14:56:20 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@46aef64d
+2019-05-17 14:56:55 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@60cf05b9
+2019-05-17 14:57:09 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@2be1109b
+2019-05-17 15:01:11 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:01:11 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:01:14 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@2384532e
+2019-05-17 15:02:35 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:02:35 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:02:39 ERROR UserService:55 - [Ljava.lang.StackTraceElement;@2a699975
+2019-05-17 15:03:03 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:03:03 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:03:11 ERROR UserService:55 - No value present
+2019-05-17 15:03:42 ERROR UserService:55 - No value present
+2019-05-17 15:04:04 ERROR UserService:55 - No value present
+2019-05-17 15:04:23 ERROR UserService:55 - No value present
+2019-05-17 15:05:22 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:05:22 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:05:28 ERROR UserService:55 - No value present
+2019-05-17 15:05:41 ERROR UserService:55 - No value present
+2019-05-17 15:05:46 ERROR UserService:55 - No value present
+2019-05-17 15:07:52 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:07:52 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:07:59 ERROR UserService:57 - No value present
+2019-05-17 15:08:48 ERROR UserService:57 - No value present
+2019-05-17 15:09:42 ERROR UserService:57 - No value present
+2019-05-17 15:11:53 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 15:11:53 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 15:12:40 ERROR UserService:96 - l'id pas trouvé
+2019-05-20 15:36:43 ERROR UserService:35 - email existe deja
+2019-05-20 15:37:18 ERROR UserService:35 - email existe deja
+2019-05-20 15:51:19 ERROR UserService:35 - email existe deja
+2019-05-20 15:54:52 ERROR UserService:35 - email existe deja
+2019-05-20 16:58:40 ERROR UserService:35 - email existe deja
+2019-05-21 11:12:22 ERROR UserService:62 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-21 11:13:58 ERROR UserService:62 - No value present
+2019-05-21 11:16:04 ERROR UserService:62 - No value present
+2019-05-21 12:05:51 ERROR UserService:62 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-21 12:09:49 ERROR UserService:62 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-21 12:12:35 ERROR UserService:62 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
